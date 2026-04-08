@@ -171,4 +171,4 @@ If you want to switch backbones, you typically need to modify the `net = ...` bl
 
 ## 9. License
 
-BSD 3-Clause. See [License](https://github.com/caojingtian1216/age-invariant-face-retrieval-based-on-HMLF/blob/main/LICENSE).
+MIT License. See [License](https://github.com/caojingtian1216/age-invariant-face-retrieval-based-on-HMLF/blob/main/LICENSE).
