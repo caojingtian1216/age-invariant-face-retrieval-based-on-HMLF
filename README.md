@@ -8,7 +8,7 @@ The main entry scripts all start with **online_train_**, where each script corre
 ## 1. Main Entry Scripts (5 Datasets)
 
 - AgeDB: [dirtorch/online_train_agedb.py](dirtorch/online_train_agedb.py)  
-- CACD / CADA2000: [dirtorch/online_train_cacd.py](dirtorch/online_train_cacd.py)  
+- CACD2000: [dirtorch/online_train_cacd.py](dirtorch/online_train_cacd.py)  
 - FG-NET: [dirtorch/online_train_fgnet.py](dirtorch/online_train_fgnet.py)  
 - IMDB-clean-1024: [dirtorch/online_train_imdb.py](dirtorch/online_train_imdb.py)  
 - MORPH: [dirtorch/online_train_morph.py](dirtorch/online_train_morph.py)
